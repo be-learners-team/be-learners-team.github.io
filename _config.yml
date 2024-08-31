@@ -1,7 +1,12 @@
-title: One Page Wonder - Jekyll
-description: A Jekyll Landing Page Theme
-sitename: Your Website
-baseurl: '/one-page-wonder-jekyll'
+title: Is ChatGPT still cool?
+description: Be Learners Team! An educational initiative on Artificial Intelligence and Digital Knowledge.
+sitename: Chat BLT
+author: Be Learners Team
+baseurl: ''
+github_url: https://github.com/orgs/be-learners-team/discussions/1
+twitter_url: 
+linkedin_url: 
+chatbot_zoo_url: https://lmarena.ai/
 sass:
   sass_dir: /assets/_sass
   style: :compressed
