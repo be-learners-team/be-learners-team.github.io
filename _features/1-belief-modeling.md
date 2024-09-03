@@ -1,7 +1,7 @@
 ---
 id: about
-name: Belief Modeling
-heading: Belief
+name: 1. Belief Modeling
+heading: 1. Belief
 subheading: Modeling.
 image: /assets/images/blt_logo.png
 ---

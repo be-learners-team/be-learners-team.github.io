@@ -1,7 +1,7 @@
 ---
 id: transparency
-name: Transparency
-heading: Transparency
+name: 3. Transparency
+heading: 3. Transparency
 subheading: Builds Trust.
 image: /assets/images/blt_pencil_feature.png
 ---
