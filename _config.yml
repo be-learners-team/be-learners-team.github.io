@@ -4,9 +4,9 @@ sitename: Chat BLT
 author: Be Learners Team
 baseurl: ''
 github_url: https://github.com/orgs/be-learners-team/discussions/1
-twitter_url: 
-linkedin_url: 
-chatbot_zoo_url: https://lmarena.ai/
+twitter_url: https://twitter.com/drzhelnov
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:activity:7222153988438118400/
+coffee_url: https://ko-fi.com/zheln
 sass:
   sass_dir: /assets/_sass
   style: :compressed
