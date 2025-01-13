@@ -8,3 +8,5 @@ alt: "A minimalist and sleek design of a classic hamburger. The logo features a 
 ---
 
 Contemporary chatbots largely fail at choosing the appropriate level of confidence when conveying uncertain information. Although there are mathematical ways to address that (e.g., [belief functions](https://www.hds.utc.fr/~tdenoeux/dokuwiki/en/bf)), their comparative utility is yet to be explored.
+
+A new generation of chatbots based on reasoning, or “thinking,” models feature test-time compute scaling. This means that before giving a response, the model produces intermediary output (“reasoning tokens”), [expected to increase](https://doi.org/10.48550/arXiv.2410.13639) the model performance in proportion to the compute resources spent. This has not been the case with the previous generation such as ChatGPT-4o. Test-time compute scaling has a potential to improve Belief Modeling, although convincing evidence is lacking. OpenAI o1, Gemini Thinking, DeepSeek-R1, and Sky-T1, among others, are examples of reasoning models.
