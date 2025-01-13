@@ -9,4 +9,4 @@ alt: "A vibrant and dynamic logo of a burger that also incorporates a pencil. Th
 
 Many chatbots have been launched, but they often lack comprehensive documentation and do not specify the models and approaches used.
 
-Note that open source models such as Llama offer [a competitive experience](https://lmarena.ai/?leaderboard) while allowing for a more reproducible workflow when documentation is key.
+Note that open source models, such as Llama, Qwen, DeepSeek, Mistral, Gemma, and others, offer [a competitive experience](https://lmarena.ai/?leaderboard) while allowing for a more reproducible workflow when documentation is key.
