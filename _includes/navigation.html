@@ -15,7 +15,7 @@
       <ul>
         {% for feature in site.features %}
         <li>
-          <a href='#{{ feature.id }}'>{{ feature.name }}</a>
+          <a href='#{{ feature.href }}' {% if feature.href == 'notice' %}style='color: gold;'{% endif %}>{{ feature.name }}</a>
         </li>
         {% endfor %}
       </ul>

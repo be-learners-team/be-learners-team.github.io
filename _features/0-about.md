@@ -1,5 +1,5 @@
 ---
-id: about
+href: about
 name: About BLT
 heading: BLT
 subheading: Stands for Belief, Locality, Transparency.

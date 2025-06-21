@@ -1,5 +1,5 @@
 ---
-id: summary
+href: summary
 name: Summary
 heading: BLT
 subheading: Or They’re The Same Chatbot.

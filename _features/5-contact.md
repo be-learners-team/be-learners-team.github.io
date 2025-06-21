@@ -1,5 +1,5 @@
 ---
-id: contact
+href: contact
 name: Contact
 heading: Chat
 subheading: With The Team.

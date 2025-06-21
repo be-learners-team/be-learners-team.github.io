@@ -1,5 +1,5 @@
 ---
-id: about
+href: belief-modeling
 name: 1. Belief Modeling
 heading: 1. Belief
 subheading: Modeling.

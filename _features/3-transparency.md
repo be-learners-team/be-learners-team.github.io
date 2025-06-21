@@ -1,5 +1,5 @@
 ---
-id: transparency
+href: transparency
 name: 3. Transparency
 heading: 3. Transparency
 subheading: Builds Trust.

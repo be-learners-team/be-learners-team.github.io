@@ -1,6 +1,6 @@
 <main id="/features/">
   {% for feature in site.features %}
-    <hr id='{{ feature.id }}'>
+    <hr id='{{ feature.href }}'>
 
     <section>
       <img class='{% cycle 'pull-right', 'pull-left' %}' src='{{ feature.image }}' alt='{{ feature.alt }}'>
