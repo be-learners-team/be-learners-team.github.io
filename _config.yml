@@ -3,6 +3,7 @@ description: Be Learners Team! An educational initiative on Artificial Intellige
 sitename: Chat BLT
 author: Be Learners Team
 baseurl: ''
+site_url: https://be-learners-team.github.io
 github_url: https://github.com/orgs/be-learners-team/discussions/1
 twitter_url: https://x.com/BltChat
 linkedin_url: https://www.linkedin.com/feed/update/urn:li:activity:7222153988438118400/
