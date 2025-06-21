@@ -6,4 +6,4 @@ subheading: Notice!
 image: 
 ---
 
-The original `blt.chat` domain name expires on Jul 25<sup>th</sup>, 2025, and will not be renewed further. Please bookmark our permalink to stay up to date: <{{ site.site_url }}>
+The original `blt.chat` domain name expires on July 25, 2025, and will not be renewed further. Please bookmark our permalink to stay up to date: <{{ site.site_url }}>
