@@ -1,11 +1,5 @@
-# One Page Wonder Jekyll
+# Be Learners Team!
 
-[Jekyll](https://github.com/jekyll/jekyll) port of [One Page Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder).
+Consider not putting much trust in another AI startup for the time being, even if it promises a magic solution. Wait for [the BLT features](https://be-learners-team.github.io/#/features/) to start getting more traction.
 
-## Contributing
-
-1. Fork it ( https://github.com/mushishi78/one-page-wonder-jekyll/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+In the meantime, commercial large language models (LLMs) such as GPT, Gemini, Claude, Grok, [and a myriad of others](https://huggingface.co/) are at your service, often free of charge or at an affordable cost.
